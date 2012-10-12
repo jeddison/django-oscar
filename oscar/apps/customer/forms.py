@@ -94,6 +94,7 @@ class CommonPasswordValidator(validators.BaseValidator):
         '1234',
         '12345'
         '123456',
+        '1234567',
         '123456y',
         '123456789',
         'iloveyou',
